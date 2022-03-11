@@ -29,6 +29,6 @@ As deiverables for this challenge I did the following:
   2) Updated the Jumbotron with an image (see Figure 3); I tried using a saved image in my static folder to update the jumbrotron, but was unsuccessful.  An image of the code for the static folder can be seen in the resources folder. <br><br>
 ![This is an image](https://github.com/bartblack13/Mission-to-Mars/blob/main/Resources/jumbotron%20code.png)<br><br>
 **Figure 3 - code for jumbotron image** <br><br>
-  3) verified that my app was formatted for a mobile device (Samsung S5) (see Figure 4)<br><br>
+  3) verified that my app was formatted for a mobile device (Samsung S5) (see Figure 4); jumbotron lacks image in the mobile version since I took screenshots prior to updated the code to include the image (see above)<br><br>
 ![This is an image](https://github.com/bartblack13/Mission-to-Mars/blob/main/Resources/mobile%20app.png)<br><br>
 **Figure 4 - mobile format of website** <br><br>
