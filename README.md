@@ -13,7 +13,7 @@ To do this I wrote pythonic code using jupyter notebook to scrape data and pictu
 * jumbotron and a interactive scrape button, 
 * tables,
 * grid layout for titles, etc. (see Figure 1)<br><br>
-![This is an image]()<br><br>
+![This is an image](https://github.com/bartblack13/Mission-to-Mars/blob/main/Resources/website.png)<br><br>
 **Figure 1 - Website screenshot** <br><br>
 
 The Jumbotron included an interactive button for users to scrape new up-to-date data, info, and featured images.  This generated the data included in the Mars Facts table; the Feature image, title, and summary; and the four hemisphere images with corresponding names.
@@ -24,11 +24,11 @@ As deiverables for this challenge I did the following:
 * Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 * Deliverable 3: Add Bootstrap 3 Components
   1) Changed the Scrape button to show "active status" with a color change and shadowing, color change was default and is difficult to see, but is present (see Figure 2)<br><br>
-![This is an image]()<br><br>
+![This is an image](https://github.com/bartblack13/Mission-to-Mars/blob/main/Resources/button%20active.png)<br><br>
 **Figure 2 - unactive and active button with code** <br><br>
-  2) Updated the Jumbotron with an image (see Figure 3) <br><br>
-![This is an image]()<br><br>
-**Figure 3 - static code for jumbotron image** <br><br>
+  2) Updated the Jumbotron with an image (see Figure 3); I tried using a saved image in my static folder to update the jumbrotron, but was unsuccessful.  An image of the code for the static folder can be seen in the resources folder. <br><br>
+![This is an image](https://github.com/bartblack13/Mission-to-Mars/blob/main/Resources/jumbotron%20code.png)<br><br>
+**Figure 3 - code for jumbotron image** <br><br>
   3) verified that my app was formatted for a mobile device (Samsung S5) (see Figure 4)<br><br>
-![This is an image]()<br><br>
+![This is an image](https://github.com/bartblack13/Mission-to-Mars/blob/main/Resources/mobile%20app.png)<br><br>
 **Figure 4 - mobile format of website** <br><br>
